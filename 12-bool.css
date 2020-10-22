@@ -23,6 +23,28 @@
   clear: both;
 }
 
+
+.col{
+  text-align: center;
+  background-color: coral;
+  border: 2px solid white;
+  float: left;
+  width: 20%;
+  height: 200px;
+}
+
+
+.col8{
+  text-align: center;
+  background-color: coral;
+  border: 1px solid white;
+  float: left;
+  width: 60%;
+  height: 200px;
+}
+
+
+
 /* colonne */
 
 [class*="col-"] {   /* le classi con col- hanno il codice sotto */
