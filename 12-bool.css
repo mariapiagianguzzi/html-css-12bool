@@ -24,60 +24,13 @@
 }
 
 
-.text-1{
-  text-align: center;
-  line-height: 200px;
-  vertical-align: middle;
-}
-.text-12{
-  text-align: center;
-  line-height: 200px;
-  vertical-align: middle;
-}
-
-.text-8{
-  text-align: center;
-  line-height: 200px;
-  vertical-align: middle;
-}
-
-.text-2{
+.text{
   text-align: center;
   line-height: 200px;
   vertical-align: middle;
 }
 
 
-.text-2{
-  width: 20%;
-  height: 100%;
-  background-color: coral;
-  border: 2px solid white;
-  float: left;
-  text-align: center;
-}
-
-.text-8{
-  width: 60%;
-  height: 100%;
-  background-color: coral;
-  border: 2px solid white;
-  float: left;
-  text-align: center;
-}
-
-
-.text-6{
-  width: 50%;
-  height: 100%;
-  background-color: coral;
-  border: 2px solid white;
-  text-align: center;
-  line-height: 200px;
-  vertical-align: middle;
-  float: left;
-  text-align: center;
-}
 
 
 /* colonne */
